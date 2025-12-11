@@ -27,7 +27,7 @@
 git clone https://github.com/asikrshoudo/wiliyo.git
 cd wiliyo
 
-# Run server
+# If Run server
 python wiliyo.py server
 
 # Run client (in another terminal)
